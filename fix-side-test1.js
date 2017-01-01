@@ -1,8 +1,8 @@
 (function(){
 $(function(){
-var fix = $('#side-ad'), //ŒÅ’è‚µ‚½‚¢ƒRƒ“ƒeƒ“ƒc
-side = $('#sidebar-1'), //ƒTƒCƒhƒo[‚ÌID
-main = $('body'), //ŒÅ’è‚·‚é—v‘f‚ğû‚ß‚é”ÍˆÍ
+var fix = $('#test'), //å›ºå®šã—ãŸã„ã‚³ãƒ³ãƒ†ãƒ³ãƒ„
+side = $('#sidebar-1'), //ã‚µã‚¤ãƒ‰ãƒãƒ¼ã®ID
+main = $('#wrap'), //å›ºå®šã™ã‚‹è¦ç´ ã‚’åã‚ã‚‹ç¯„å›²
 sideTop = side.offset().top;
 fixTop = fix.offset().top,
 mainTop = main.offset().top,
