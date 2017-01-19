@@ -1,0 +1,19 @@
+h3 {
+	padding-bottom: .5em;
+	border-bottom: 1px solid #ccc;
+}
+
+h2 {
+	padding-bottom: .5em;
+	border-bottom: 1px solid #ccc;
+}
+h2:first-letter {
+	margin-right: .1em;
+	font-size: 1.5em;
+}
+
+h1 {
+	padding: .5em .75em;
+	background-color: #f6f6f6;
+	border-bottom: 1px solid #ccc;
+}
