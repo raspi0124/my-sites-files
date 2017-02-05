@@ -1,0 +1,7 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+@import url(https://fonts.googleapis.com/earlyaccess/nicomoji.css);
+
+@font-face {
+    font-family: 'Huifont';
+    src: url('https://cdn.rawgit.com/raspi0124/my-sites-files/ad9d1ffc/HuiFont109.ttf') format('woff');
+}
