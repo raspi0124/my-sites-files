@@ -12,23 +12,23 @@ echo "voteto1" ;
 への投票mona数   
 <?php
 echo exec('whoami');
-echo exec('monacoin-cli getbalance wawawa1';);
+echo exec('monacoin-cli getbalance wawawa1');
 ?>
 
 この候補の投票先アドレス:
-<?php echo exec('monacoin-cli getaddressesbyaccount wawawa1')
+<?php echo exec('monacoin-cli getaddressesbyaccount wawawa1');
 ?>
 への投票mona数   
 <?php
 echo exec('whoami');
-echo exec('monacoin-cli getbalance wawawa2';);
+echo exec('monacoin-cli getbalance wawawa2');
 ?>
 
 <?php 
 echo "voteto2" ;
 ?>
 この候補の投票先アドレス:
-<?php echo exec('monacoin-cli getaddressesbyaccount wawawa2')
+<?php echo exec('monacoin-cli getaddressesbyaccount wawawa2');
 ?>
 
 <?php 
@@ -37,11 +37,11 @@ echo "voteto3" ;
 への投票mona数   
 <?php
 echo exec('whoami');
-echo exec('monacoin-cli getbalance wawawa3';);
+echo exec('monacoin-cli getbalance wawawa3');
 ?>
 
 この候補の投票先アドレス:
-<?php echo exec('monacoin-cli getaddressesbyaccount wawawa3')
+<?php echo exec('monacoin-cli getaddressesbyaccount wawawa3');
 ?>
 
 
