@@ -1,2 +1,3 @@
 sudo echo "deb [trusted=yes] https://repo.fury.io/raspi0124/ /" >> /etc/apt/sources.list
 echo "finish adding repository!"
+sudo apt update
